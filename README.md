@@ -154,10 +154,18 @@ GitHub UI repo
 
 Some online notes
 1, [Gradle for Android](http://gold.xitu.io/entry/56946cfa60b2b80a9d1c173f)
+
 2, [Android性能优化典范](http://geek.csdn.net/news/detail/50692)
+
 3, [Android退出应用最优雅的方式](http://android.jobbole.com/82335/)
+
 4, [android开发小技巧积累/](http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2015/12/16/android%E5%BC%80%E5%8F%91%E5%B0%8F%E6%8A%80%E5%B7%A7%E7%A7%AF%E7%B4%AF/?utm_source=tuicool&utm_medium=referral)
+
 5, [Android小技巧(1)](http://android.jobbole.com/80645/)
+
 6, [安卓开发的小技巧（1)](http://android.jobbole.com/82206/)
+
 7, [100套最新UI PSD素材打包下载](http://www.uisdc.com/2016-100-daysui-psd)
+
 8, [git分支最佳实践](http://www.kuqin.com/shuoit/20141210/343783.html)
+
