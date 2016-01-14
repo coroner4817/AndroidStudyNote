@@ -59,14 +59,11 @@ My Android tricks notes (pages are for 第一行代码)
     use binService and unbindService to start service then the service can be controlled by the activity but will service die when unbind
     so use startService first then bind it
     service can only be started once
-
-    Use front-end Service p364
-
+    use front-end Service p364
     service standard version(use thread) and stopSelf() p367
     or use IntentService when doing some heavy task in service. It will automatically stop when task finished p368
     Like a service manager, terminal useless service to avoid traffic in Main UI
-
-    Wake up service in period p371
+    wake up service in period p371
 
 19, Web-based development p377
     ...
