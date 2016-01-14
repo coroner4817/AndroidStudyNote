@@ -115,6 +115,7 @@ Android project
 
 
 GitHub UI repo
+
 1, Summary
   1, https://github.com/kesenhoo/android-open-project
   2, https://github.com/wasabeef/awesome-android-ui
@@ -153,6 +154,7 @@ GitHub UI repo
 
 
 Some online notes
+
 1, [Gradle for Android](http://gold.xitu.io/entry/56946cfa60b2b80a9d1c173f)
 
 2, [Android性能优化典范](http://geek.csdn.net/news/detail/50692)
